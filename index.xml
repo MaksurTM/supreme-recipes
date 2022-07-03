@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supreme Recipes</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Supreme Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hearty Oatmeal</title>
+      <link>http://example.org/hearty-breakfast-oatmeal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/hearty-breakfast-oatmeal/</guid>
+      <description>If your Oatmeal isn’t Hearty Breakfast Oatmeal… Is it even Oatmeal?
+⏲️ Prep time: 5 min 🍳Cook time: 10 min 🍽️ Serving: 1 hearty serving Ingredients 1/2 cup Large Flake Oats (no partially cooked quick-oats allowed!) Almonds Pecans 1 Tbsp Roasted Flax Seed 1 Tbsp Hemp Hearts Cranberries (adjust amount to preference) 1/2 Banana (mashed) 1 cup Milk (3.25% if possible) Cinnamon (adjust amount to preference) 1 Egg ON Vanilla Ice Cream Protein Powder (optional) Directions Chop or mash nuts and fruit.</description>
+    </item>
+    
+    <item>
+      <title>Meatloaf</title>
+      <link>http://example.org/meatloaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/meatloaf/</guid>
+      <description>This recipe will result in two or three glass dishes of tasty, moist meatloaf. Great for family suppers.
+preptime: 30 min cooktime: 1 hour 10 minutes servings: 6+Once thawed, put all of your beef into a bowl. The next 4 steps will all go into this same bowl. Ingredients 4 ½ pounds Ground beef 1 Onion 2 Slices of bread 4 Eggs ¼ Cup of milk Garlic salt Onion powder Mustard Sugar free ketchup 3 Cubes of brown sugar 1 Can of Campbell’s tomato soup Franks RedHot sauce (Optional) Directions Dice the onion and bread slices into small pieces.</description>
+    </item>
+    
+    <item>
+      <title>Protein Oat Cake</title>
+      <link>http://example.org/oat-and-protein-cake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/oat-and-protein-cake/</guid>
+      <description>Macros Calories: 464 Protein: 44g Carbs: 56g Fat: 7g Ingredients 60g oats 1 egg 1/2 tsp of baking powder 1/2 tsp of vanilla extract 100ml of almond milk or milk of choice 1 banana 1 cup of whey protein Instructions Blend the oats to make flour. Add the egg, baking powder, vanilla extract, milk and banana. Blend. Add one cup of whey protein. Blend again. Add to a greased baking dish and microwave for 2.</description>
+    </item>
+    
+  </channel>
+</rss>
